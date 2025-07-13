@@ -1,5 +1,7 @@
 # Project Zomboid Mod: Accessible Scrollbars (Alpha v0.1)
 
+> ⚠️ **Pre-release:** This is an initial test version and may change or break. Feedback welcome.
+
 ## How to use
 
 1. [Download Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)
