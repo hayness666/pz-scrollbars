@@ -1,4 +1,4 @@
-# Project Zomboid Mod: Accessible Scrollbars
+# Project Zomboid Mod: Accessible Scrollbars (Alpha v0.1)
 
 ## How to use
 
